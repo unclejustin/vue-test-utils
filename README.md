@@ -1,9 +1,10 @@
 # Vue Test Utils [![Build Status](https://circleci.com/gh/vuejs/vue-test-utils/tree/dev.png?style=shield)](https://circleci.com/gh/vuejs/vue-test-utils)
 
-## Packages
+Testing multiline comments
+
+## Packages!!
 
 This repository provides the following two packages.  
-They are currently in beta.
 
 - [Vue Test Utils](./packages/test-utils)
 - [Vue Server Test Utils](./packages/server-test-utils)
